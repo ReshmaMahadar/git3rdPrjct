@@ -6,6 +6,7 @@ public class git3rdPgm {
 		// TODO Auto-generated method stub
 System.out.println("inside git3 pgm");
 		System.out.println("inside git3 pgm NEW LINE");
+		System.out.println("3rd line thru eclipse");//gfhfhgf
 		
 	}
 
